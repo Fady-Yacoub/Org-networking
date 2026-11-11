@@ -9,21 +9,20 @@ server (50.50.50.2).
 
 ## Requirements
 - VLSM (variable subnetting)
-1. OSPF as the routing protocol
-2. VLANs with inter-VLAN routing using ROAS
-3. Standalone DHCP server
-4. AAA authentication with a local admin user
-5. First name as the password for all lines
-6. Second name as the enable (privileged exec) password
-7. Web server with public IP 50.50.50.2 (Static NAT)
-8. EtherChannel between switches
-9. HSRP for router redundancy
-10. SSH on at least one router
-11. PDF documentation with screenshots and simple explanations
-
+- 01 - OSPF as the routing protocol
+- 02 - VLANs with inter-VLAN routing using ROAS
+- 03 - Standalone DHCP server
+- 04 - AAA authentication with a local admin user
+- 05 - First name as the password for all lines
+- 06 - Second name as the enable (privileged exec) password
+- 07 - Web server with public IP 50.50.50.2 (Static NAT)
+- 08 - EtherChannel between switches
+- 09 - HSRP for router redundancy
+- 10 - SSH on at least one router
+- 11 - PDF documentation with screenshots and simple explanations
 ## Team and Responsibilities
 | Member | Tasks |
-|---|---|
+|:---:|:---:|
 | Mahmoud El-Sheikh | 4 (AAA), 7 (Static NAT), 9 (HSRP), 10 (SSH) |
 | Mohamed Fathallah | 2 (VLANs + ROAS), 3 (DHCP), Subnetting (VLSM) |
 | Youssef Emad | 1 (OSPF), 8 (EtherChannel), Documentation |
