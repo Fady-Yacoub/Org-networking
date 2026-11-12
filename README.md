@@ -1,5 +1,8 @@
 # Org-networking
 
+## Topology
+![Project Topology](Topology.jpg)
+
 ## Description
 Planning, designing and implementing the network of a company
 (name: TBD) using Cisco Packet Tracer. The network uses VLSM,
