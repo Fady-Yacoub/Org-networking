@@ -1,4 +1,4 @@
-# Org-networking: Enterprise Network (CCNA Final Project)
+# Verse networking: Enterprise Network (ITI CCNA project)
 
 A three-layer enterprise network designed and implemented in Cisco Packet Tracer
 with VLSM, VLANs with ROAS, standalone DHCP, OSPF, EtherChannel, HSRP, AAA, SSH
