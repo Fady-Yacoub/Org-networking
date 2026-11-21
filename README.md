@@ -4,7 +4,7 @@ A three-layer enterprise network designed and implemented in Cisco Packet Tracer
 with VLSM, VLANs with ROAS, standalone DHCP, OSPF, EtherChannel, HSRP, AAA, SSH
 and Static NAT.
 
-
+![Network Topology](topology.png)
 
 ## Team
 
